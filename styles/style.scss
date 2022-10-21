@@ -704,10 +704,10 @@ section{
          }
          .bg-text{
              position: absolute;
-             top: -30%;
+             top: 30%;
              left: 50%;
              color: var(--color-grey-5);
-             opacity: .6;
+             opacity: .1;
              transition: all .4s ease-in-out;
              z-index: -1;
              transform: translate(-50%);
